@@ -1,0 +1,166 @@
+Analyzing admin_dashboard_page.dart...                          
+
+warning - The declaration '_hasOverlay' isn't referenced - lib\pages\admin_dashboard_page.dart:46:12 - unused_element
+warning - The value of the local variable 'adminBg' isn't used - lib\pages\admin_dashboard_page.dart:53:11 - unused_local_variable
+warning - The value of the local variable 'adminBorder' isn't used - lib\pages\admin_dashboard_page.dart:55:11 - unused_local_variable
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:64:78 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:66:79 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:71:54 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:72:68 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:85:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:86:67 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:157:61 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:158:64 - deprecated_member_use
+  error - Expected to find ']' - lib\pages\admin_dashboard_page.dart:186:5 - expected_token
+  error - Expected to find ')' - lib\pages\admin_dashboard_page.dart:186:6 - expected_token
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:198:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:213:55 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:333:28 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:334:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:387:36 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:387:67 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:389:63 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:389:94 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:390:66 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:427:42 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:428:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:431:100 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:440:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:444:57 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:445:48 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:478:57 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:479:62 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:486:23 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:486:106 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:493:88 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:494:91 - deprecated_member_use
+  error - The method '_DC' isn't defined for the type '_BookingsList' - lib\pages\admin_dashboard_page.dart:497:15 - undefined_method
+  error - The method '_DC' isn't defined for the type '_BookingsList' - lib\pages\admin_dashboard_page.dart:497:43 - undefined_method
+  error - The method '_DC' isn't defined for the type '_BookingsList' - lib\pages\admin_dashboard_page.dart:498:15 - undefined_method
+  error - The method '_DC' isn't defined for the type '_BookingsList' - lib\pages\admin_dashboard_page.dart:498:48 - undefined_method
+  error - The method '_DC' isn't defined for the type '_BookingsList' - lib\pages\admin_dashboard_page.dart:499:15 - undefined_method
+  error - The method '_DC' isn't defined for the type '_BookingsList' - lib\pages\admin_dashboard_page.dart:499:49 - undefined_method
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:506:89 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:528:83 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:535:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:536:59 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:543:88 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:544:91 - deprecated_member_use
+  error - The method '_DC' isn't defined for the type '_PaymentsList' - lib\pages\admin_dashboard_page.dart:547:15 - undefined_method
+  error - The method '_DC' isn't defined for the type '_PaymentsList' - lib\pages\admin_dashboard_page.dart:547:43 - undefined_method
+  error - The method '_DC' isn't defined for the type '_PaymentsList' - lib\pages\admin_dashboard_page.dart:548:15 - undefined_method
+  error - The method '_DC' isn't defined for the type '_PaymentsList' - lib\pages\admin_dashboard_page.dart:548:58 - undefined_method
+  error - The method '_DC' isn't defined for the type '_PaymentsList' - lib\pages\admin_dashboard_page.dart:549:15 - undefined_method
+  error - The method '_DC' isn't defined for the type '_PaymentsList' - lib\pages\admin_dashboard_page.dart:549:45 - undefined_method
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:560:68 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:584:48 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:584:91 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:584:131 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:584:162 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:585:48 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:585:91 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:585:131 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:585:162 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:601:101 - deprecated_member_use
+warning - The declaration '_AvailDialog' isn't referenced - lib\pages\admin_dashboard_page.dart:626:7 - unused_element
+  error - The name '_AvailDialog' is already defined - lib\pages\admin_dashboard_page.dart:626:7 - duplicate_definition
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:639:145 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:645:61 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:645:101 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:646:58 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:646:98 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:672:85 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:680:63 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:680:157 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:686:62 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:686:165 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:705:24 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:706:51 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:734:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:748:119 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:750:122 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:751:129 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:752:129 - deprecated_member_use
+warning - The declaration '_AddPkgDialog' isn't referenced - lib\pages\admin_dashboard_page.dart:756:7 - unused_element
+  error - The name '_AddPkgDialog' is already defined - lib\pages\admin_dashboard_page.dart:756:7 - duplicate_definition
+  error - '_AddPkgDialog' doesn't conform to the bound 'StatefulWidget' of the type parameter 'T' - lib\pages\admin_dashboard_page.dart:759:19 - type_argument_not_matching_bounds
+  error - '_AddPkgDialog.createState' ('State<_AddPkgDialog> Function()') isn't a valid override of 'StatefulWidget.createState' ('State<StatefulWidget> Function()') - lib\pages\admin_dashboard_page.dart:759:34 - invalid_override
+  error - '_AddPkgDialog' doesn't conform to the bound 'StatefulWidget' of the type parameter 'T' - lib\pages\admin_dashboard_page.dart:761:40 - type_argument_not_matching_bounds
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:767:145 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:776:53 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:776:156 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:799:119 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:801:122 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:802:129 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:803:129 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:820:69 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:821:66 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:864:112 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:866:53 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:866:147 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:868:162 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:870:162 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:882:74 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:887:67 - deprecated_member_use
+warning - The declaration '_RevCalDialog' isn't referenced - lib\pages\admin_dashboard_page.dart:908:7 - unused_element
+  error - The name '_RevCalDialog' is already defined - lib\pages\admin_dashboard_page.dart:908:7 - duplicate_definition
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:924:147 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:952:55 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:952:158 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:974:48 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:974:93 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:974:138 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:974:178 - deprecated_member_use
+   info - Statements in a for should be enclosed in a block - lib\pages\admin_dashboard_page.dart:979:36 - curly_braces_in_flow_control_structures
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:992:64 - deprecated_member_use
+warning - The declaration '_HeatDialog' isn't referenced - lib\pages\admin_dashboard_page.dart:1002:7 - unused_element
+  error - The name '_HeatDialog' is already defined - lib\pages\admin_dashboard_page.dart:1002:7 - duplicate_definition
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1007:145 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1008:58 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1034:83 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1037:106 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1037:161 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1046:55 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1046:149 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1086:42 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1086:129 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1088:73 - deprecated_member_use
+warning - The declaration '_AnnounceDialog' isn't referenced - lib\pages\admin_dashboard_page.dart:1095:7 - unused_element
+  error - The name '_AnnounceDialog' is already defined - lib\pages\admin_dashboard_page.dart:1095:7 - duplicate_definition
+  error - '_AnnounceDialog' doesn't conform to the bound 'StatefulWidget' of the type parameter 'T' - lib\pages\admin_dashboard_page.dart:1098:19 - type_argument_not_matching_bounds
+  error - '_AnnounceDialog.createState' ('State<_AnnounceDialog> Function()') isn't a valid override of 'StatefulWidget.createState' ('State<StatefulWidget> Function()') - lib\pages\admin_dashboard_page.dart:1098:36 - invalid_override
+  error - '_AnnounceDialog' doesn't conform to the bound 'StatefulWidget' of the type parameter 'T' - lib\pages\admin_dashboard_page.dart:1100:42 - type_argument_not_matching_bounds
+   info - Statements in an if should be enclosed in a block - lib\pages\admin_dashboard_page.dart:1108:16 - curly_braces_in_flow_control_structures
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1119:145 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1138:46 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1139:126 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1140:133 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1166:51 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1166:82 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1167:48 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1167:79 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1176:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1176:152 - deprecated_member_use
+warning - The value of the local variable 'adminAccent2' isn't used - lib\pages\admin_dashboard_page.dart:1208:71 - unused_local_variable
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1210:137 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1217:105 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1217:159 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1252:63 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1252:161 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1267:141 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1268:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1279:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1279:74 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1279:162 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1279:193 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1281:96 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1281:127 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1294:44 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1295:124 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1296:131 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1297:131 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1307:53 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1307:156 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1315:51 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\admin_dashboard_page.dart:1315:154 - deprecated_member_use
+
