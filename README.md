@@ -82,16 +82,45 @@ The project follows a modular Flutter structure:
 
 ```
 lib/
- ├── main.dart
- ├── screens/
- │    ├── map_screen.dart
- │    ├── space_screen.dart
- │    ├── activity_screen.dart
- │    └── profile_screen.dart
- ├── widgets/
- ├── models/
- └── services/
-```
+├── main.dart
+├── app_shell.dart
+├── theme.dart
+├── providers/
+│   └── app_provider.dart
+├── models/
+│   ├── booking_model.dart
+│   ├── review_model.dart
+│   └── space_model.dart
+├── pages/
+│   ├── activity_page.dart
+│   ├── admin_dashboard_page.dart
+│   ├── booking_form_page.dart
+│   ├── booking_requests_page.dart
+│   ├── directions_page.dart
+│   ├── home_page.dart
+│   ├── login_page.dart
+│   ├── my_qr_code_page.dart
+│   ├── profile_page.dart
+│   ├── role_selection_page.dart
+│   ├── saved_page.dart
+│   ├── scan_qr_code_page.dart
+│   ├── signup_page.dart
+│   ├── space_details_page.dart
+│   ├── space_setup_page.dart
+│   ├── spaces_page.dart
+│   └── user_app_shell.dart
+├── widgets/
+│   ├── bottom_nav.dart
+│   ├── glass_input.dart
+│   ├── google_logo.dart
+│   ├── gradient_button.dart
+│   ├── header_widget.dart
+│   ├── notification_panel.dart
+│   └── space_card.dart
+└── (future directories)
+    ├── data/          (planned for mock_data.dart)
+    ├── services/      (planned for space_service, booking_service, etc.)
+    └── (other assets)
 
 ---
 
